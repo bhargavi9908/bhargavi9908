@@ -1,4 +1,4 @@
-👋 Hi, I’m bhargavi9908 
+👋 Hi, I’m Bhargavi Rageeru
 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 🌱 I’m currently mastering Python, MySQL, Tableau, Artificial intelligence and Deep learning
 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artificial Intelligence.
